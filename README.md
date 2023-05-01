@@ -8,7 +8,7 @@ I am currently pursuing a degree in Software Engineering, and have completed a S
 I have experience with Object-Oriented Programming, data structures, algorithms, Java GUI programming, and more.
 
 ## Projects:
-*To be added to github...*
+- [Naval Warfare](https://github.com/YazeedMo/Naval-Warfare)
 
 ## Skills
 Some of my Java programming skills include:
