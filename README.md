@@ -5,16 +5,19 @@ Hi there! My name is Yazeed, and I am a Software Engineering student currently l
 
 ## Education
 I am currently pursuing a degree in Software Engineering, and have completed a Software Engineering bootcamp.
-I have experience with Object-Oriented Programming, data structures, algorithms, Java GUI programming, and more.
+I have experience with Object-Oriented Programming, data structures, algorithms, Java GUI programming, Databases and more.
 
 ## Projects:
 - [Naval Warfare](https://github.com/YazeedMo/Naval-Warfare)
+- [ShelfSense](https://github.com/YazeedMo/ShelfSense)
+- [DSAHub](https://github.com/YazeedMo/DSAHub)
 
 ## Skills
 Some of my Java programming skills include:
 - Object-Oriented Programming
 - Data Structures and algorithms
 - Graphical User Interface Programming
+- MySQL
 - Unit Testing
 - Debugging
 
