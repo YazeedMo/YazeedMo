@@ -3,14 +3,13 @@
 🔭 Software Engineer | 🌍 Based in South Africa | 💻 Tech enthusiast | 🏎️ Formula 1 Fanatic
 
 <!--
-Stats Card
 ![Yazeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YazeedMo&show_icons=true&theme=radical)
 --->
 
-<br>
-
 ## About Me
 I'm currenntly studying towards a BSc in Software Engineering. I'm passionate about exploring new technologies and honing my skills. When I'm not buried in my studies or coding projects, you can find me watching the Formula 1 race or delving into the intricacies of race strategies.
+
+<br>
 
 ## 🛠️ Tech Stack
 
