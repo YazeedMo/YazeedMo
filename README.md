@@ -1,26 +1,48 @@
-# My Software Engineering Journey
+# Hello World! 👋  I'm Yazeed Mohamed
 
-## Introduction
-Hi there! My name is Yazeed, and I am a Software Engineering student currently learning how to develop software using Java. I am passionate about programming and enjoy solving challenging problems.
+🔭 Software Engineer | 🌍 Based in South Africa | 💻 Tech enthusiast | 🏎️ Formula 1 Fanatic
 
-## Education
-I am currently pursuing a degree in Software Engineering, and have completed a Software Engineering bootcamp.
-I have experience with Object-Oriented Programming, data structures, algorithms, Java GUI programming, Databases and more.
+<!--
+Stats Card
+![Yazeed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YazeedMo&show_icons=true&theme=radical)
+--->
 
-## Projects:
-- [Naval Warfare](https://github.com/YazeedMo/Naval-Warfare)
-- [ShelfSense](https://github.com/YazeedMo/ShelfSense)
-- [DSAHub](https://github.com/YazeedMo/DSAHub)
+<br>
 
-## Skills
-Some of my Java programming skills include:
-- Object-Oriented Programming
-- Data Structures and algorithms
-- Graphical User Interface Programming
-- MySQL
-- Unit Testing
-- Debugging
+## About Me
+I'm currenntly studying towards a BSc in Software Engineering. I'm passionate about exploring new technologies and honing my skills. When I'm not buried in my studies or coding projects, you can find me watching the Formula 1 race or delving into the intricacies of race strategies.
 
-## Goals
-I am passionate about programming and problem solving and strive to become a proficient Java Developer.
-My ultimate goal is to build software that solves real-world problems and makes a positive impact on society.
+## 🛠️ Tech Stack
+
+### 🌟 Proficient:
+- **Languages**: ![Java](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white)
+- **Concepts**: OOP, Design Patterns, Data Structures, Algorithms, GUI Programming, Database Programming.
+- **Databases**: ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat&logo=mysql&logoColor=white) (with Java integration, JDBC)
+
+### 📘 Familiar:
+- **Languages**:
+  - ![Python](https://img.shields.io/badge/-Python-yellow?style=flat&logo=python&logoColor=white)
+  - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+- **Web Development**: Basic knowledge in HTML, CSS, JavaScript, and PHP
+
+> While I'm comfortable and highly proficient in Java and related technologies, I have a foundational understanding of other languages and web development. Always eager to expand my knowledge 🤓
+
+<br>
+
+## 🌱 I'm currently learning
+Exploring the world of Android development with ![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?&logo=kotlin&logoColor=white). Excited about the possibilities and innovations in mobile app development.
+
+<br>
+
+## ✨ Highlighted Repos
+1. [NavalWarfare](https://github.com/YazeedMo/Naval-Warfare) - A classic battleship game built with JavaFX.
+2. [ShelfSense](https://github.com/YazeedMo/ShelfSense) - A comprehensive library management system.
+3. [DSAHub](https://github.com/YazeedMo/DSAHub) - A growing repository of Data Structure and Algorithms.
+
+<br>
+
+## 🤝 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/yazeed-mohamed-541677206/)
+- Or shoot me an [email](yazeedmo0810@gmail.com)
+
+> "Code is like humor. When you have to explain it, it's bad." - Cory House
