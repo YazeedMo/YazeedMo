@@ -44,4 +44,8 @@ Exploring the world of Android development with ![Kotlin](https://img.shields.io
 - [LinkedIn](https://www.linkedin.com/in/yazeed-mohamed-541677206/)
 - Or shoot me an [email](yazeedmo0810@gmail.com)
 
+<br>
+<br>
+<br>
+
 > "Code is like humor. When you have to explain it, it's bad." - Cory House
